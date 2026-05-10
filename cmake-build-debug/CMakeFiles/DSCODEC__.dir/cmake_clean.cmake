@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/DSCODEC__.dir/main.cpp.obj"
+  "CMakeFiles/DSCODEC__.dir/main.cpp.obj.d"
   "DSCODEC__.exe"
   "DSCODEC__.exe.manifest"
   "DSCODEC__.pdb"
